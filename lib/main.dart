@@ -7,15 +7,14 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-
 	@override
   Widget build(BuildContext context) {
-
     return MaterialApp(
 	    title: 'NoteKeeper',
 	    debugShowCheckedModeBanner: false,
 	    theme: ThemeData(
-		    primarySwatch: Colors.deepPurple
+				primaryColor:Colors.black,
+				primarySwatch:Colors.grey
 	    ),
 	    home: NoteList(),
     );

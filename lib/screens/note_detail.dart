@@ -261,7 +261,6 @@ class NoteDetailState extends State<NoteDetail> {
 	}
 
 	void _showAlertDialog(String title, String message) {
-
 		AlertDialog alertDialog = AlertDialog(
 			title: Text(title),
 			content: Text(message),
@@ -271,15 +270,4 @@ class NoteDetailState extends State<NoteDetail> {
 				builder: (_) => alertDialog
 		);
 	}
-
 }
-
-
-
-
-
-
-
-
-
-
