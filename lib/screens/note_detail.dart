@@ -20,7 +20,7 @@ class NoteDetail extends StatefulWidget {
 
 class NoteDetailState extends State<NoteDetail> {
 
-	static var _priorities = ['High', 'Low'];
+	static var _priorities = ['High', 'Medium','Low'];
 
 	DatabaseHelper helper = DatabaseHelper();
 

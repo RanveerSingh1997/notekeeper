@@ -44,9 +44,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../../../build/sqflite/generated/res/resValues/debug" type="java-resource" />
     </content>
     <content url="file://$MODULE_DIR$/../../../../build/sqflite/generated/res/rs/androidTest/debug" />
-    <content url="file://$MODULE_DIR$/../../../../build/sqflite/generated/res/rs/debug">
-      <sourceFolder url="file://$MODULE_DIR$/../../../../build/sqflite/generated/res/rs/debug" type="java-resource" />
-    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/sqflite/generated/res/rs/debug" />
     <content url="file://$MODULE_DIR$/../../../../build/sqflite/generated/source/buildConfig/androidTest/debug" />
     <content url="file://$MODULE_DIR$/../../../../build/sqflite/generated/source/buildConfig/debug">
       <sourceFolder url="file://$MODULE_DIR$/../../../../build/sqflite/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
